@@ -58,7 +58,7 @@ Le projet consiste à créer un jeu de plateforme en utilisant des algorithmes g
    - **Méthodes principales :**
       - `getTile()`: Renvoie la représentation textuelle de la tuile.
 
-## Auteurs
+## Auteur
 Bourge Loïc
 
 
